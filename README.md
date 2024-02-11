@@ -15,7 +15,7 @@
   - Ensure you have Python installed on your system.
   - Clone the repository 
 ```Copy code
-git clone <repo-url>
+git clone <repository_url>
 ```
   - Navigate to the directory containing the project files.
   - Run the Testing file:
